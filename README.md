@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Usman Afridi
 
-<!--
-**UsmanAfridi4/UsmanAfridi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student  
+💻 Learning Full Stack Development  
+🚀 Interested in Machine Learning
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- JavaScript
+- HTML/CSS
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 HTML AND CSS  BASED PROJECTS
+- Clonora web page
+- MXANT WEB
+
+## 📫 Contact Me
+- GitHub: https://github.com/UsmanAfridi4
+- Linkdin: https://www.linkedin.com/feed/
